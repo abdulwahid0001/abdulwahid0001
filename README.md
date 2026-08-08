@@ -19,6 +19,12 @@
 ╚════════════════════════════════════╝
     </pre>
   </div>
+
+  <!-- Open to Work & Open Source Badge -->
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Looking-green?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
+  </div>
 </div>
 
 ---
@@ -31,6 +37,21 @@
 ⚡ Passionate about automation, infrastructure, and clean code
 🛠️  From backend APIs to containerized deployments
 ```
+
+---
+
+## 💼 Current Status
+
+<div align="center">
+
+| Status | Details |
+|--------|---------|
+| 🔴 **Open to Work** | Actively seeking Full Stack / DevOps / Cloud Engineer roles |
+| 🤝 **Open Source** | Passionate about contributing to FOSS & community projects |
+| 💬 **Let's Connect** | Available for collaborations, consulting & tech discussions |
+| ⚡ **Ready to Start** | Can join immediately with flexible terms & remote options |
+
+</div>
 
 ---
 
@@ -88,9 +109,10 @@
 
 - 🔭 Building robust microservices architectures
 - 🌱 Deepening expertise in cloud-native technologies
-- 👯 Open to collaborating on innovative projects
+- 👯 **Open to collaborating on innovative projects & FOSS**
 - 💡 Exploring containerization and orchestration patterns
 - 🚀 Optimizing deployment pipelines for speed and reliability
+- 🤝 **Contributing to open source communities**
 
 ---
 
@@ -147,6 +169,30 @@
 - 📚 Always learning new technologies
 - 🎯 Believer in clean code and documentation
 - 🚀 Passionate about performance optimization
+- 🤝 Enthusiast of open source & community-driven development
+
+---
+
+## 🎁 How to Work With Me
+
+<div align="center">
+
+**💼 Employment Opportunities**
+- Full-time / Part-time / Contract roles
+- Remote, Hybrid, or On-site positions
+- Startups to Enterprise
+
+**🤝 Open Source Collaboration**
+- Bug fixes & feature contributions
+- Code reviews & mentoring
+- Documentation & community support
+
+**💬 Other Engagements**
+- Technical consulting
+- Architecture review
+- Knowledge sharing & workshops
+
+</div>
 
 ---
 
@@ -154,7 +200,9 @@
 
 ### 🤝 Let's Build Something Amazing Together!
 
-**Feel free to reach out for collaborations or just a tech chat!**
+**💼 Open to work | 🤝 Open to contribute | 💬 Always up for a chat!**
+
+Feel free to reach out for collaborations, opportunities, or just a tech discussion!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-success?style=social&logo=github)](https://github.com/abdulwahid0001)
 
@@ -168,4 +216,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=abdulwahid0001&style=flat-square&color=blue" alt="Profile Views">
   </p>
+  
+  <p><em>Last updated: 2026</em></p>
 </div>
